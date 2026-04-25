@@ -100,30 +100,15 @@ ask_me_about:
 ## &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santosh708&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2C5364&icon_color=0e75b6&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh708&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C5364&ring=0e75b6&fire=2C5364&currStreakLabel=2C5364" />
+  <em>Most of my professional work lives in private enterprise repositories. The metrics below reflect open-source activity only.</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh708&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh708&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
----
-
-## &nbsp;Trophy Showcase
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=santosh708&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</p>
-
----
-
-## &nbsp;Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosh708&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2C5364&line=0e75b6&point=ffffff&area=true&area_color=2C5364" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosh708&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=2C5364&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
 <!-- SNAKE ANIMATION -->
